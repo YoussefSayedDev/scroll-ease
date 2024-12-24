@@ -1,9 +1,9 @@
 {
   "compilerOptions": {
-    "target": "es5",
-    "lib": ["dom", "es2015"],
+    "target": "ES6",
+    "lib": ["dom", "ES2016"],
     "moduleResolution": "node",
-    "jsx": "react",
+    "jsx": "react-jsx",
     "declaration": true,
     "declarationDir": "./types",
     "outDir": "./dist"
